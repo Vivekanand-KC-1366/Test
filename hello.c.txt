@@ -3,6 +3,7 @@
 main()
 {
 	printf("Hello\n");
+<<<<<<< HEAD
 x = add(1,3);
 }
 
@@ -12,3 +13,9 @@ add(int , int)
 retrun ( 1+3); 
 
 }
+=======
+
+}
+ 
+
+>>>>>>> e62f6886ec0d4429ef6d8cb45276ae6c50577a06
