@@ -3,12 +3,7 @@
 main()
 {
 	printf("Hello\n");
-x = add(1,3);
-}
-add() 
-
-{
-
-retrun ( 1+3); s
 
 }
+ 
+
